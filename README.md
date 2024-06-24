@@ -1,6 +1,5 @@
-Teste prático da empresa 
-
-A partir das tabelas acima, escreva o código para responder as perguntas abaixo:					
+Uma empresa fornecedora de entretenimento televisionado precisa fazer a análise dos consumos de seus serviços, visto que esta empresa quer expandir mas não pode expandir para todas as áreas igualmente, até porque é necessária uma estratégia para alavancar as áreas que pedem um up e manter as áreas que não necessitam de expansão, pois a demanda é baixa. 
+Com isso, foi solicitado um levantamento e tratamento de dados para esta análise.					
 					
 1 - 	Quantidade de horas consumidas e plays por categoria
 
@@ -12,5 +11,6 @@ A partir das tabelas acima, escreva o código para responder as perguntas abaixo
 
 5 - 	Qual a categoria mais consumida para cada usuário		
 
-6 -	  Conte uma história com os dados! Não precisa ser nada complexo. O objetivo é entendermos como você lida com informações e as analisa.				
+Com isso foi analisado,resumidamente, que as séries tem um consumo extremamente maior, maior até do que novelas, mas as novelas também são bem consumidas.
+Sendo assim, o serviço de séries deverá ser expandido e a de novelas deverá apenas ser melhorado.			
 
