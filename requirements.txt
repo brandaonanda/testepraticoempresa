@@ -1,0 +1,4 @@
+streamlit
+pandas
+plotly==5.3.1  # ou a versão que você precisar
+numpy
